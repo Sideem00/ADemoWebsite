@@ -23,6 +23,9 @@ body  {
     float: left ;
     
   }
+
+  
+
   .nav-link {
     color: darkred ;
     text-decoration: none ;
@@ -54,13 +57,16 @@ body  {
     background-size: cover;
     
   }
+ 
   .header-tag {
     text-align: center;
-    color; darkred ;
-    text-shadow: 2px 2px 2px black
+    color: yellow;
+    text-shadow: 2px 2px 2px green;
   }
-  h3.header-tag {
+  .h3-header-tag {
     margin-top: -30px;
+    text-align: center;
+    color: white;
     font-size: 18pt;
   }
   h2{
@@ -69,6 +75,8 @@ body  {
     color: darkred;
 
   }
+
+
   main {
     text-align: center ;
   }
